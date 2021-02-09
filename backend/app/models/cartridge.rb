@@ -1,0 +1,2 @@
+class Cartridge < ApplicationRecord
+end

@@ -1,0 +1,3 @@
+Cartridge.create(name: "Deceptive Bends", image_url: 'https://img.discogs.com/pC5EGvqZtZh1giu0hmr8Zst0Quc=/fit-in/600x786/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3174787-1600651714-3129.jpeg.jpg', year: 1977)
+Cartridge.create(name: "Ascending", image_url: 'https://img.discogs.com/Y_j7DBkRflN12A1xW45v--cUi_0=/fit-in/600x795/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17295823-1612667012-8461.jpeg.jpg', year: 1968)
+Cartridge.create(name: "Demian", image_url: 'https://img.discogs.com/vhKJc-Q7f1PRcLRmROVOTwKWTjo=/fit-in/600x789/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17271097-1612543591-4916.jpeg.jpg', year: 1970)

@@ -1,0 +1,25 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 300px;
+}
+
+li{
+  box-shadow: 0 10px 10px 5px gray;
+  width: 400px;
+  height: max-content;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+li:hover{
+    cursor: pointer;
+}
+
+#album-list{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
